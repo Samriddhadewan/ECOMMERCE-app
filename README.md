@@ -1,14 +1,12 @@
+
 # 🛒 ECOMMERCE App
 
-A full-featured eCommerce application built with the **MERN stack (MongoDB, Express, React, Node.js)**. This project includes user authentication, product management, shopping cart, order system, and a secure admin dashboard.
+A full-featured eCommerce application built with the MERN stack (MongoDB, Express, React, Node.js). This project includes user authentication, product management, shopping cart, order system, and a secure admin dashboard.
 
 🔴 **Live Site:** [Visit Now](https://ecommerce-frontend-rust-three.vercel.app/)  
 🔐 **Admin Access:** _Private. Request access for demo._
 
----
-
-## 🚀 Features
-
+## Features 
 ### 🧑‍💻 User Side
 - User registration and login (JWT authentication)
 - Browse products with images, names, prices, and categories
@@ -22,7 +20,6 @@ A full-featured eCommerce application built with the **MERN stack (MongoDB, Expr
 - Manage all orders and users
 - Real-time product updates
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,36 +33,52 @@ A full-featured eCommerce application built with the **MERN stack (MongoDB, Expr
 | **Tailwind CSS** | Utility-first CSS framework |
 | **Axios** | HTTP client for API calls |
 
----
-
 ## 📸 Screenshots
 
-> You can add your own screenshots here.
-
 - **Home Page**
-  ![Home](https://via.placeholder.com/800x400?text=Home+Page)
+  ![Home](https://i.postimg.cc/90gRY4rP/image.jpg)
 
 - **Product Page**
-  ![Products](https://via.placeholder.com/800x400?text=Product+List)
+  ![Products](https://i.postimg.cc/Dz7vmvz7/image-1.jpg)
 
-- **Admin Dashboard**
-  ![Admin](https://via.placeholder.com/800x400?text=Admin+Dashboard)
+- **Product**
+  ![Product](https://i.postimg.cc/1tjsWDrz/image-2.jpg)
+
+- **Admin Page**
+  ![Admin](https://i.postimg.cc/KY5HvFKS/admin-dashboard.png)
 
 ---
+## 🧪 Installation
 
-## 🧪 Installation & Setup
+Install with npm
 
-### 1. Clone the repository
 ```bash
-git clone https://github.com/Samriddhadewan/ECOMMERCE-app.git
-cd ECOMMERCE-app
+  git clone https://github.com/Samriddhadewan/ECOMMERCE-app.git
+  cd ECOMMERCE-app
+```
 
-##2. Setup Backend
-```bash
-cd backend
-npm install
-# Create a .env file and configure the following:
-# MONGO_URI=your_mongodb_uri
-# JWT_SECRET=your_jwt_secret
-# PORT=5000
-npm run server
+## 📡 Backend setup
+
+
+```bash  
+  cd backend 
+  npm install
+  npm run server
+```
+## 🖥️ Frontend setup
+
+
+```bash  
+  cd backend 
+  npm install
+  npm run dev
+```
+## 	👤 Admin setup
+
+
+```bash  
+  cd admin
+  npm install
+  npm run dev
+```
+    
