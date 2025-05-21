@@ -59,3 +59,13 @@ A full-featured eCommerce application built with the **MERN stack (MongoDB, Expr
 ```bash
 git clone https://github.com/Samriddhadewan/ECOMMERCE-app.git
 cd ECOMMERCE-app
+
+##2. Setup Backend
+```bash
+cd backend
+npm install
+# Create a .env file and configure the following:
+# MONGO_URI=your_mongodb_uri
+# JWT_SECRET=your_jwt_secret
+# PORT=5000
+npm run server
