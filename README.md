@@ -1,7 +1,7 @@
 
 # 🛒 ECOMMERCE App
 
-A full-featured eCommerce application built with the MERN stack (MongoDB,Express,React,Node.js). This project includes user authentication, product management, shopping cart, order system, and a secure admin dashboard.
+A full-featured eCommerce application built with the MERN stack (MongoDB,Express,React,Node.js). This project includes user authentication, product management, shopping cart, order system, and a secure admin dashboard!
 
 🔴 **Live Site:** [Visit Now](https://ecommerce-frontend-rust-three.vercel.app/)  
 🔐 **Admin Access:** _Private. Request access for demo._
